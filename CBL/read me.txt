@@ -1,0 +1,1 @@
+Firstly, CNN.m is used to train appropriate convolution and pooling parameters, and then other files are used to obtain the feature matrix. The feature matrix is input as the feature node and the enhancement node of BLS respectively
